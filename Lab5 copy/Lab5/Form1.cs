@@ -105,7 +105,7 @@ namespace Lab5
             //if Text radio btn is selected, perform ResetTextGrp function, Show Text grpbox, hide Stats grpbox
             if (radText.Checked)
             {
-                ResetTextGrp
+                ResetTextGrp();
                 grpText.Show();
                 grpStats.Hide();
             }
