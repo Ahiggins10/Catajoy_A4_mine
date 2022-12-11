@@ -50,7 +50,7 @@ namespace Lab5
         {
 
             //Compares the code entered by the user to the generated code in the label
-            if (txtCode.Text == lblCode.Text)
+            if (txtCode.Text != lblCode.Text)
             {
                 //adds 1 to class-level variable number of attempts if the input does not match, clears and focuses on the textox
                 numAttempts++;
@@ -105,7 +105,7 @@ namespace Lab5
             //if Text radio btn is selected, perform ResetTextGrp function, Show Text grpbox, hide Stats grpbox
             if (radText.Checked)
             {
-                ResetTextGrp
+                ResetTextGrp();
                 grpText.Show();
                 grpStats.Hide();
             }
@@ -253,7 +253,7 @@ namespace Lab5
                     odds++;
                 }
 
-            } while (count <= nudHowMany.Value);
+            } while (count < nudHowMany.Value);
 
             return odds;
         }
