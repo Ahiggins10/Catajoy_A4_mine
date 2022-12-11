@@ -253,7 +253,7 @@ namespace Lab5
                     odds++;
                 }
 
-            } while (count <= nudHowMany.Value);
+            } while (count < nudHowMany.Value);
 
             return odds;
         }
