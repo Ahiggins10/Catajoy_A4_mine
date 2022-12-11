@@ -50,7 +50,7 @@ namespace Lab5
         {
 
             //Compares the code entered by the user to the generated code in the label
-            if (txtCode.Text == lblCode.Text)
+            if (txtCode.Text != lblCode.Text)
             {
                 //adds 1 to class-level variable number of attempts if the input does not match, clears and focuses on the textox
                 numAttempts++;
