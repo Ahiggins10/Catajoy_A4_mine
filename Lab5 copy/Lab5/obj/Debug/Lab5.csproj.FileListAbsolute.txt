@@ -1,0 +1,30 @@
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Demos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Demos\Lab5\Lab5\obj\Debug\Lab5.pdb
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+\\Mac\Home\Documents\Fall 2022\C#\Lab\Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.exe
+C:\Users\alexj\Downloads\Lab5_copy\Lab5 copy\Lab5\obj\Debug\Lab5.pdb
